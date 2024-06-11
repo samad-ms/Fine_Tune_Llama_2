@@ -1,0 +1,1 @@
+ This project focuses on fine-tuning the Llama 2 model using Quantized Low Rank Adaptation (QLoRA) in a Google Colab environment. The goal is to efficiently adapt large language models to specific tasks with minimal resource usage.
